@@ -1,0 +1,1076 @@
+{	
+      "AM": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters_direct.json (ElectricityMap Average, 2017)",
+          "value": 169.2474039323895
+        }
+      },
+      "AR": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters_direct.json (ElectricityMap Average, 2017)",
+          "value": 263.509680413255
+        }
+      },
+      "AT": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2018)",
+          "value": 189.1555066532277
+        }
+      },
+      "AUS-NSW": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 609.4001059397319
+        }
+      },
+      "AUS-QLD": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 594.3595853433416
+        }
+      },
+      "AUS-SA": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 207.83318272590503
+        }
+      },
+      "AUS-TAS": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 59.68143335393224
+        }
+      },
+      "AUS-TAS-FI": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 222.34335573874446
+        }
+      },
+      "AUS-TAS-KI": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 234.9086357355117
+        }
+      },
+      "AUS-VIC": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 548.3451338932887
+        }
+      },
+      "AUS-WA": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 396.7337616029545
+        }
+      },
+      "AUS-WA-RI": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 292.82528927059946
+        }
+      },
+      "AW": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 337.3545610645565
+        }
+      },
+      "AX": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 45.28805879219221
+        }
+      },
+      "BA": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 480.1543275633537
+        }
+      },
+      "BE": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 144.20803925394276
+        }
+      },
+      "BG": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 323.59920945545076
+        }
+      },
+      "BO": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 367.8411069030223
+        }
+      },
+      "BR-CS": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 124.92020969214009
+        }
+      },
+      "BR-N": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 137.31123882457092
+        }
+      },
+      "BR-NE": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 116.78980690726443
+        }
+      },
+      "BR-S": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 123.86065050995742
+        }
+      },
+      "CA-AB": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 480.9062885348112
+        }
+      },
+      "CA-NS": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 469.8977318114941
+        }
+      },
+      "CA-ON": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 32.541670188589464
+        }
+      },
+      "CA-PE": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 113.32483679178162
+        }
+      },
+      "CA-QC": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 0.5008101247845609
+        }
+      },
+      "CA-YT": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 40.57246138409451
+        }
+      },
+      "CL-SING": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 614.2555591940885
+        }
+      },
+      "CH": {
+        "hydro discharge": {
+          "source": "Source ENTSOE, Swiss government and electricityMap: https://github.com/tmrowco/electricityMap-contrib/pull/2898 and https://docs.google.com/spreadsheets/d/1FLHQ6e9Es08BIqX654BM3SEb_fuAk4k4O-6cmRXyw_E/",
+          "value": 92.45529931962075
+        }
+      },
+      "CL-SEN": {
+        "hydro discharge": {
+          "source": "https://docs.google.com/spreadsheets/d/1-iXUGhAM_9Ft5ejlNVxaqaAwG8Octh3gSjU-dm4e96o/edit#gid=0",
+          "value": 208.9030408694993
+        }
+      },
+      "CR": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 16.291577964697424
+        }
+      },
+      "CY": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 346.7887268176241
+        }
+      },
+      "CZ": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2018)",
+          "value": 416.66988864763
+        }
+      },
+      "DE": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2018)",
+          "value": 297.22743966244326
+        }
+      },
+      "DK-BHM": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 20.312965257003416
+        }
+      },
+      "DK-DK1": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 150.30731988767175
+        }
+      },
+      "DK-DK2": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 118.52149269827325
+        }
+      },
+      "DO": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 403.853052112231
+        }
+      },
+      "EE": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 317.99144771844584
+        }
+      },
+      "ES": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2018)",
+          "value": 123.85360346149422
+        }
+      },
+      "ES-CN-FVLZ": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2018)",
+          "value": 345.4548264323977
+        }
+      },
+      "ES-CN-GC": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2018)",
+          "value": 318.6695845426076
+        }
+      },
+      "ES-CN-HI": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2018)",
+          "value": 117.7976781548657
+        }
+      },
+      "ES-CN-IG": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2018)",
+          "value": 406.00000000000006
+        }
+      },
+      "ES-CN-LP": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2018)",
+          "value": 365.3411899852624
+        }
+      },
+      "ES-CN-TE": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2018)",
+          "value": 319.0330071188576
+        }
+      },
+      "ES-IB-FO": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 302.1257330505068
+        }
+      },
+      "ES-IB-IZ": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 318.5840058632317
+        }
+      },
+      "FI": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 133.0175786431113
+        }
+      },
+      "FO": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 248.37990993773258
+        }
+      },
+      "FR": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2018)",
+          "value": 54.19088892903222
+        }
+      },
+      "GB": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 177.32511322487701
+        }
+      },
+      "GB-NIR": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 291.012971537
+        }
+      },
+      "GB-ORK": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 460.17442286784836
+        }
+      },
+      "GE": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 114.62596612266658
+        }
+      },
+      "GR": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 284.5154177979549
+        }
+      },
+      "GT": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 269.6187929820843
+        }
+      },
+      "HN": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 551.2165273275053
+        }
+      },
+      "HR": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 416.31654596995014
+        }
+      },
+      "HU": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 206.7899846183766
+        }
+      },
+      "IE": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 364.08151989072695
+        }
+      },
+      "IL": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 575.0
+        }
+      },
+      "IN-AP": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 438.39251136007215
+        }
+      },
+      "IN-CT": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 748.2915362313788
+        }
+      },
+      "IN-DL": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 349.592753006823
+        }
+      },
+      "IN-GJ": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 587.3520843990214
+        }
+      },
+      "IN-KA": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 397.01248324147633
+        }
+      },
+      "IN-PB": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 629.6811967069298
+        }
+      },
+      "IQ": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2018)",
+          "value": 360.4540929615272
+        }
+      },
+      "IS": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2018)",
+          "value": 0.01866069813401729
+        }
+      },
+      "IT-CNO": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2018)",
+          "value": 203.89338350294804
+        }
+      },
+      "IT-CSO": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2018)",
+          "value": 351.78507100698533
+        }
+      },
+      "IT-NO": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2018)",
+          "value": 316.8526181348207
+        }
+      },
+      "IT-SAR": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2018)",
+          "value": 473.75528646039413
+        }
+      },
+      "IT-SIC": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2018)",
+          "value": 316.2258087127636
+        }
+      },
+      "IT-SO": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 255.65628443799864
+        }
+      },
+      "JP-KY": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 311.5124591762403
+        }
+      },
+      "KW": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 575.0
+        }
+      },
+      "LT": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2018)",
+          "value": 232.42336519914036
+        }
+      },
+      "LU": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 178.41865232807453
+        }
+      },
+      "LV": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 224.5448269708235
+        }
+      },
+      "MD": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 424.6352528711844
+        }
+      },
+      "ME": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 353.9237999309435
+        }
+      },
+      "MK": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 400.5841428003718
+        }
+      },
+      "MY-WM": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 584.0527332758758
+        }
+      },
+      "NA": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 368.8456672172453
+        }
+      },
+      "NG": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 280.82249604736285
+        }
+      },
+      "NI": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 109.21411436997998
+        }
+      },
+      "NO-NO1": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 18.03075364405762
+        }
+      },
+      "NO-NO2": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 30.615743921131017
+        }
+      },
+      "NO-NO3": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 13.43629439767019
+        }
+      },
+      "NO-NO4": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 6.628141281423535
+        }
+      },
+      "NO-NO5": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 30.642822090074063
+        }
+      },
+      "NZ-NZN": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 185.19400206781782
+        }
+      },
+      "NZ-NZS": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 38.164465763002966
+        }
+      },
+      "PA": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 183.22835403392483
+        }
+      },
+      "PE": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 132.66737116287246
+        }
+      },
+      "PF": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 268.5319609262506
+        }
+      },
+      "PL": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 576.4140069164024
+        }
+      },
+      "PR": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 445.3981040694054
+        }
+      },
+      "PT": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2018)",
+          "value": 136.44266736243853
+        }
+      },
+      "RE": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 399.6759026824
+        }
+      },
+      "RO": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 216.47357194346176
+        }
+      },
+      "RS": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 468.4314815771853
+        }
+      },
+      "RU": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 373.2994356894946
+        }
+      },
+      "RU-1": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 390.952316008629
+        }
+      },
+      "RU-2": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 325.8976606822384
+        }
+      },
+      "RU-AS": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 309.83482298390635
+        }
+      },
+      "SE": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 47.31267597911351
+        }
+      },
+      "SG": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 372.16040720903
+        }
+      },
+      "SI": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 222.20339439689207
+        }
+      },
+      "SK": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2018)",
+          "value": 283.49212183996946
+        }
+      },
+      "SV": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 131.82330997925308
+        }
+      },
+      "TH": {
+        "hydro discharge": {
+          "source": "https://docs.google.com/spreadsheets/d/16j5BVc4L34BDqVE0GeDBv0P3zQupT6zU77Kj5UK7GjE/edit?usp=sharing",
+          "value": 386.645
+        }
+      },
+      "TR": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 362.32319395730116
+        }
+      },
+      "TW": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2018)",
+          "value": 548.4428624926388
+        }
+      },
+      "UA": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2018)",
+          "value": 238.36347407994785
+        }
+      },
+      "US-CAL-BANC": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 194.3736474753835
+        }
+      },
+      "US-CAL-CISO": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 235.04724861550912
+        }
+      },
+      "US-CAL-IID": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 472.4009481555156
+        }
+      },
+      "US-CAL-LDWP": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 310.7828655963285
+        }
+      },
+      "US-CAL-TIDC": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 249.27707126412005
+        }
+      },
+      "US-CAR-CPLE": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 237.68880592797754
+        }
+      },
+      "US-CAR-CPLW": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 359.9878897203928
+        }
+      },
+      "US-CAR-SC": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 446.1247623700005
+        }
+      },
+      "US-CAR-SCEG": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 324.31032673234637
+        }
+      },
+      "US-CAR-YAD": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 20.446032372680612
+        }
+      },
+      "US-CENT-SPA": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 155.27637450952585
+        }
+      },
+      "US-CENT-SWPP": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 346.3017284560946
+        }
+      },
+      "US-FLA-FMPP": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 440.5330707389499
+        }
+      },
+      "US-FLA-FPC": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 411.7071924468364
+        }
+      },
+      "US-FLA-FPL": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 304.4464690231568
+        }
+      },
+      "US-FLA-GVL": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 536.5616781221952
+        }
+      },
+      "US-FLA-JEA": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 455.0989427486165
+        }
+      },
+      "US-FLA-SEC": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 576.2028045156524
+        }
+      },
+      "US-FLA-TAL": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 357.15150567890674
+        }
+      },
+      "US-NEISO": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 273.7550391054897
+        }
+      },
+      "US-FLA-TEC": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 437.9654415326255
+        }
+      },
+      "US-HI-OA": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 401.49743615810416
+        }
+      },
+      "US-MIDA-PJM": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 314.378697647263
+        }
+      },
+      "US-MIDW-AECI": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 506.6284280818978
+        }
+      },
+      "US-MIDW-GLHB": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 744.3764201762978
+        }
+      },
+      "US-MIDW-LGEE": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 651.0237206318611
+        }
+      },
+      "US-MIDW-MISO": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 398.6722582688924
+        }
+      },
+      "US-NE-ISNE": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 183.63867835383604
+        }
+      },
+      "US-NW-AVA": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 135.69137283431053
+        }
+      },
+      "US-NW-AVRN": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 270.8334094579008
+        }
+      },
+      "US-NW-BPAT": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 53.50440564280603
+        }
+      },
+      "US-NW-CHPD": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 1.3005033418468372
+        }
+      },
+      "US-NW-DOPD": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 2.9692242958240866
+        }
+      },
+      "US-NW-GCPD": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 17.147749384136038
+        }
+      },
+      "US-NW-GRID": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 382.0289183925492
+        }
+      },
+      "US-NW-IPCO": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 248.5579129438617
+        }
+      },
+      "US-NW-NEVP": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 363.7785287366052
+        }
+      },
+      "US-NW-NWMT": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 460.7591280972269
+        }
+      },
+      "US-NW-PACE": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 447.0277441701108
+        }
+      },
+      "US-NW-PACW": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 270.51293346887013
+        }
+      },
+      "US-NW-PGE": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 125.68350934154255
+        }
+      },
+      "US-NW-PSCO": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 409.8420322029403
+        }
+      },
+      "US-NW-PSEI": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 127.8088759065813
+        }
+      },
+      "US-NW-SCL": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 33.575020236312795
+        }
+      },
+      "US-NW-TPWR": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 32.98563615085665
+        }
+      },
+      "US-NW-WACM": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 515.7360263413145
+        }
+      },
+      "US-NW-WAUW": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 236.42339916047612
+        }
+      },
+      "US-NY-NYIS": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 180.25650620309392
+        }
+      },
+      "US-SE-AEC": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 366.55441599595804
+        }
+      },
+      "US-SE-SEPA": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 56.222867961402216
+        }
+      },
+      "US-SE-SOCO": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 348.1291170995103
+        }
+      },
+      "US-SW-AZPS": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 329.2721193872668
+        }
+      },
+      "US-SW-EPE": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 379.20992981519225
+        }
+      },
+      "US-SW-PNM": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 422.79226747577917
+        }
+      },
+      "US-SW-SRP": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 209.6509902146305
+        }
+      },
+      "US-SW-TEPC": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 417.43447651122415
+        }
+      },
+      "US-SW-WALC": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 277.55427438086537
+        }
+      },
+      "US-SW-TEPC": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 417.43447651122415
+        }
+      },
+      "US-TEN-TVA": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 246.4290952696185
+        }
+      },
+      "US-TEX-ERCO": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 301.921088325611
+        }
+      },
+      "UY": {
+        "hydro discharge": {
+          "source": "https://github.com/tmrowco/electricitymap-contrib/blob/master/config/co2eq_parameters.json (ElectricityMap Average, 2017)",
+          "value": 63.546729302802675
+        }
+      }
+}
